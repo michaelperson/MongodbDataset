@@ -1,0 +1,130 @@
+[{
+  "_id":"B112",
+  "NOM": "HANSENNEA",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Poitiers",
+  "CAT": "C1",
+  "COMPTE": 1250
+},{
+  "_id": "C123",
+  "NOM": "MERCIER",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Namur",
+  "CAT": "C1",
+  "COMPTE": -2300
+},{
+  "_id": "B332",
+  "NOM": "MONTI",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Geneve",
+  "CAT": "B2",
+  "COMPTE": 0
+},{
+  "_id": "F010",
+  "NOM": "TOUSSAINT",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Poitiers",
+  "CAT": "C1",
+  "COMPTE": 0
+},{
+  "_id": "K111",
+  "NOM": "VANBIST",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Lille",
+  "CAT": "B1",
+  "COMPTE": 720,
+    COMMANDES: [{NCOM: 30178, detail: [{produit_id: 'CS464', QCOM: 25}]}]
+},{
+  "_id": "S127",
+  "NOM": "VANDERKA",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Namur",
+  "CAT": "C1",
+  "COMPTE": -4580,
+    commandes: [{NCOM: 30182, detail: [{produit_id: 'PA60', QCOM: 20}]}]
+},{
+  "_id": "B512",
+  "NOM": "GILLET",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Toulouse",
+  "CAT": "B1",
+  "COMPTE": -8700,
+    commandes: [{NCOM: 30188, detail: [{produit_id: 'PA60', QCOM: 70},{produit_id: 'PH222', QCOM: 92},{produit_id: 'CS464', QCOM: 180},{produit_id: 'PA45', QCOM: 22}]}]
+},{
+  "_id": "B062",
+  "NOM": "GOFFIN",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Namur",
+  "CAT": "B2",
+  "COMPTE": -3200
+},{
+  "_id": "C400",
+  "NOM": "FERARD",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Poitiers",
+  "CAT": "B2",
+  "COMPTE": 350,
+    commandes: [{NCOM: 30179, detail: [{produit_id: 'CS262', QCOM: 60},{produit_id: 'PA60', QCOM: 30}]},{NCOM: 30184, detail: [{produit_id: 'CS464', QCOM: 120},{produit_id: 'PA45', QCOM: 20}]},{NCOM: 30186, detail: [{produit_id: 'PA45', QCOM: 3},{produit_id: 'PA60', QCOM: 70}]}]
+},{
+  "_id": "C003",
+  "NOM": "AVRON",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Toulouse",
+  "CAT": "B1",
+  "COMPTE": -1750
+},{
+  "_id": "K729",
+  "NOM": "NEUMAN",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Toulouse",
+  "COMPTE": 0
+},{
+  "_id": "F011",
+  "NOM": "PONCELET",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Toulouse",
+  "CAT": "B2",
+  "COMPTE": 0,
+    commandes: [{NCOM: 30185, detail: [{produit_id: 'PS222', QCOM: 600},{produit_id: 'CS464', QCOM: 260},{produit_id: 'PA60', QCOM: 15}]}]
+},{
+  "_id": "L422",
+  "NOM": "FRANCK",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Namur",
+  "CAT": "C1",
+  "COMPTE": 0
+},{
+  "_id": "S712",
+  "NOM": "GUILLAUME",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Paris",
+  "CAT": "B1",
+  "COMPTE": 0
+},{
+  "_id": "D063",
+  "NOM": "MERCIER",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Toulouse",
+  "COMPTE": -2250
+},{
+  "_id": "F400",
+  "NOM": "JACOB",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Bruxelles",
+  "CAT": "C2",
+  "COMPTE": 0
+},{
+  "_id": "F401",
+  "NOM": 1234,
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Bruxelles",
+  "CAT": "C2",
+  "COMPTE": 2523
+},{
+  "_id": "F402",
+  "NOM": "ARONDI",
+  "ADRESSE": "23,a. Dumont",
+  "LOCALITE": "Bruxelles",
+  "CAT": "C2",
+  "COMPTE": 0.938
+}]
